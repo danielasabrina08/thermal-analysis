@@ -1,3 +1,0 @@
-nombre_modelo,nombre_de_pila,anio
-Nissan NP300,Estaca 030,2023
-Nissan NP300,Estaca 675,2014

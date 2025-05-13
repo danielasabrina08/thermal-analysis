@@ -24,6 +24,6 @@ with open("datos_sistemas_enf.csv", newline='', encoding='utf-8') as archivo:
 '''
 cursor.execute(""" DELETE FROM ModeloUnidad WHERE nombre_de_planta = 'Hilux'; """)
 '''
-# Más inserciones aquí...
+
 conn.commit()
 conn.close()
